@@ -31,8 +31,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number:212222100023
+
+![281478316-e366a53f-3c3e-4411-a0dc-040f2c652c85](https://github.com/lokeshnarayanan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119393019/7d574df6-71a5-4407-829e-0e216dd1b542)
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
